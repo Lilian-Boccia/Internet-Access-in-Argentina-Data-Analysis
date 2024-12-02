@@ -22,9 +22,8 @@ The goal of this project is to understand the dynamics of internet access in Arg
 - Processed and prepared datasets using spreadsheet tools for cleaning and organization.
 - Designed and published visualizations in Tableau to present key findings.
 
-2. Data Sources
+2. Data Sources: the analysis is based on data from the following sources:
 
-The analysis is based on data from the following sources:
 - World Bank: Internet access, ICT goods imports/exports, and demographic data [link](https://databank.worldbank.org/reports.aspx?source=2&series=IT.NET.USER.ZS,IT.NET.SECR.P6,TX.VAL.ICTG.ZS.UN,TM.VAL.ICTG.ZS.UN,BX.GSR.CCIS.ZS#).
 - INDEC (Argentina’s Statistics Agency): Regional internet access statistics, age, and gender demographics [link](https://www.indec.gob.ar/uploads/informesdeprensa/mautic_05_213B13B3593A.pdf).
 - Google Trends: Real-time search patterns in Argentina [link](https://trends.google.com/trends/hottrends/visualize?ss=&nrow=5&ncol=5&pn=p30).
